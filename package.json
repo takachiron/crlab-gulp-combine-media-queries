@@ -1,13 +1,13 @@
 {
-  "name": "gulp-combine-media-queries",
+  "name": "crlab-gulp-combine-media-queries",
   "version": "1.0.0",
   "description": "Combine matching media queries into one media query definition.",
   "license": "MIT",
-  "repository": "konitter/gulp-combine-media-queries",
+  "repository": "takachiron/crlab-gulp-combine-media-queries",
   "author": {
-    "name": "konitter",
-    "email": "web.kony@gmail.com",
-    "url": "http://re-dzine.net"
+    "name": "takachiron",
+    "email": "",
+    "url": ""
   },
   "engines": {
     "node": ">=0.10.0"
